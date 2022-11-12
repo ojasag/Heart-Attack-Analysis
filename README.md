@@ -1,4 +1,4 @@
-# Heart-Attack-Analysis
+# Heart Attack Analysis
 About this dataset
 Age : "Age of the patient",
 Sex : "Sex of the patient",
