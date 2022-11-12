@@ -9,3 +9,4 @@ trtbps : "resting blood pressure (in mm Hg)",
 chol : "cholestoral in mg/dl fetched via BMI sensor",
 fbs : "(fasting blood sugar > 120 mg/dl) (1 = true; 0 = false)",
 rest_ecg : "resting electrocardiographic results".
+ 
